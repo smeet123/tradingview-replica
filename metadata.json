@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Market Dashboard",
+  "description": "An interactive TradingView clone and market intelligence dashboard featuring real-time interactive charts, customizable watchlists, simulated assets, community ideas, and an advanced Gemini-powered AI financial analyst.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
